@@ -1,0 +1,16 @@
+.background-image{
+    background-image: url("/imgs/Mask Group (1).png") ;
+    width: 100%;
+    height: 900px;
+    background-repeat: no-repeat;
+}
+
+ul{
+  display: flex;
+    padding-top: 10px;
+}
+
+.navdar{
+    display: flex;
+
+}
